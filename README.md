@@ -1,2 +1,5 @@
 # Git 教程
-- fix-A
+- feature-A
+- fix-B
+- feature-C
+- feature-D
